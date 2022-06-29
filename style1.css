@@ -1,0 +1,192 @@
+.history{
+    background-color: black;
+    border-radius: 30px;
+    padding: 20px;
+    display: ruby;
+    justify-content: center;
+    text-align: center;
+}
+h2{
+    margin-bottom: 5px;
+    background-color:black;
+    border-radius: 20px;
+    padding:20px;
+    border: 7px double gold;
+    color: yellow;
+}
+h1{
+    border-bottom: 3px solid chocolate;
+}
+
+.history img{
+    width: 600px;
+    height: 350px;
+    border: 5px double yellow;
+}
+.history img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+.early{
+    background-color:black;
+    border-radius:20px;
+    padding: 20px;
+    color: yellow;
+    justify-content: center;
+    text-align: center;
+}
+h4{
+    border-bottom:3px solid ;
+}
+.early img{
+    width: 800px;
+    height: 350px;
+    border: 5px double yellow;
+    justify-content: center;
+}
+.early img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+ }
+nav{
+    text-align:justify;
+}
+.age{
+    background-color: black;
+    border-radius: 20px;
+    padding: 20px;
+    color: yellow;
+    border: 5px double gold;
+    justify-content: center;
+}
+h5{
+    border-bottom: 3px solid red;
+}
+.age img{
+    border: 5px double yellow;
+    width: 800px;
+    height: 350px;
+    justify-content: center;
+}
+.age img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+h6{
+    border-bottom: 3px solid yellow;
+}
+.classic{
+    font-size:larger;
+    background-color:black;
+    border-radius: 20px;
+    padding: 20px;
+    color: yellow;
+    border: 5px double gold; 
+    justify-content: center;
+}
+.classic img{
+    border-radius: 20px;
+    border: 5px double yellow;
+    width: 800px;
+    height: 350px;
+    justify-content: center;
+}
+.classic img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+.period{
+    background-color: black;
+    border-top-right-radius:20px;
+    border-top-left-radius: 20px;
+    padding:20px;
+    font-size:x-large;
+    color: yellow;
+    border: 5px double gold;
+    justify-content: center;
+}
+.picture{
+    background-color: black;
+    padding: 20px;
+    font-size: x-large;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: yellow;
+    border: 5px double gold;
+    justify-content: center;
+}
+.period img{
+    border-radius: 20px;
+    border: 5px double gold;
+    justify-content: center;
+    width: 800px;
+    height: 350px;
+
+}
+.period img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 0px 0px red;
+    margin: 30px;
+    border: 2px solid gold;
+    background-image: linear-gradient(to right, lightgreen, white, gold);
+}
+a:hover{
+    box-shadow:7px 7px 0px 0px green;
+}
+a:focus{
+    box-shadow: 0 5px 0 0 crimson;
+    color: black;
+}
+body{
+    background-color: aqua;
+}
+header{
+    background-color:black;
+    border: 7px double gold;
+    border-radius: 20px;
+    color: yellow;
+    text-align: center;
+    font-size: x-large;
+    float: inline-start;
+}
+.early iframe{
+    border: 5px double yellow;
+    width: 800px;
+    height: 350px;
+}
+.age iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
+    width: 800px;
+    height: 350px;
+}
+.history iframe{
+    border: 5px double yellow;
+    width: 800px;
+    height: 350px;
+}
+.classic iframe{
+    border: 5px double gold;
+    border-radius: 20px;
+    width: 800px;
+    height: 350px;
+}
+picture iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
+}
+.period iframe{
+    width: 800px;
+    height: 350px;
+    border: 5px double yellow;
+    border-radius: 20px;
+}
